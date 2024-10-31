@@ -1,4 +1,5 @@
 Matias Tanoni - Mateo Irizarri - Tadeo Vázquez
 a- Si , el alfa lo ve
 b- Si el archivo se pushea y agrega al repo , los demas lo ven
-
+c- Al igual que si lo agrega alfa, los demas lo ven
+d- A través de llamada de discord
