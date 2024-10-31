@@ -3,3 +3,4 @@ a- Si , el alfa lo ve
 b- Si el archivo se pushea y agrega al repo , los demas lo ven
 c- Al igual que si lo agrega alfa, los demas lo ven
 d- A través de llamada de discord
+e- La mejor forma es que el lider, a traves de projects, indique que hay que hacer y que se hizo
